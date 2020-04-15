@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5be1b98-a978-44e2-899d-8ba5fd765213" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFUGHnFaJTWuFt9n2YcQhvMPRV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Sudoku" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sudoku" />
+      <module name="Multi-threading sudoku" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="Sudoku" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5be1b98-a978-44e2-899d-8ba5fd765213" name="Default Changelist" comment="" />
+      <created>1586330742051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586330742051</updated>
+      <workItem from="1586330757291" duration="824000" />
+      <workItem from="1586376741477" duration="1361000" />
+      <workItem from="1586451821862" duration="588000" />
+      <workItem from="1586454073283" duration="2112000" />
+      <workItem from="1586463864712" duration="1620000" />
+      <workItem from="1586547586556" duration="10381000" />
+      <workItem from="1586824674192" duration="231000" />
+      <workItem from="1586888900912" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="101" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586554520506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="101" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586554520506" />
+    <state x="376" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586554404687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="376" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1586554404687" />
+    <state width="723" height="665" key="GridCell.Tab.0.bottom" timestamp="1586562532723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="665" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586562532723" />
+    <state width="723" height="665" key="GridCell.Tab.0.center" timestamp="1586562532723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="665" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586562532723" />
+    <state width="723" height="665" key="GridCell.Tab.0.left" timestamp="1586562532723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="665" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586562532723" />
+    <state width="723" height="665" key="GridCell.Tab.0.right" timestamp="1586562532723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="665" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586562532723" />
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1586888917137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586888917137" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1586554435366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586554435366" />
+  </component>
+</project>
