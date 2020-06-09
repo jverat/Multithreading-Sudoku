@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5be1b98-a978-44e2-899d-8ba5fd765213" name="Default Changelist" comment="" />
+    <list default="true" id="a5be1b98-a978-44e2-899d-8ba5fd765213" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sudoku.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aFUGHnFaJTWuFt9n2YcQhvMPRV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,18 +54,6 @@
       </method>
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -77,11 +72,14 @@
       <workItem from="1586547586556" duration="10381000" />
       <workItem from="1586824674192" duration="231000" />
       <workItem from="1586888900912" duration="20000" />
+      <workItem from="1586911274287" duration="38000" />
+      <workItem from="1587432988580" duration="220000" />
+      <workItem from="1591716946850" duration="133000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="101" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586554520506">
@@ -108,10 +106,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="723" height="665" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586562532723" />
-    <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1586888917137">
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1587433144806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586888917137" />
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1680.-271.1344.800@0.0.1536.824" timestamp="1586911323787" />
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587433144806" />
+    <state x="418" y="33" key="new project wizard" timestamp="1587433211018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587433211018" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1586554435366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

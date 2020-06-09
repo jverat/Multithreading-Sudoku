@@ -68,7 +68,9 @@ public class Sudoku{
             rowChecking.join();
             squareCheck.join();
         }
-        catch (InterruptedException ie){}
+        catch (InterruptedException ie){
+            System.out.println("" + ie);
+        }
     }
 
 
